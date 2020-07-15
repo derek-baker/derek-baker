@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+git rebase -i HEAD~2
+
 <!--
 **derek-baker/derek-baker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
