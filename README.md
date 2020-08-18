@@ -15,6 +15,11 @@ max_line_length = off
 trim_trailing_whitespace = false
 ```
 
+Powershell Preferences
+```powershell
+$ErrorActionPreference = "Stop";
+Set-StrictMode -Version 'Latest'
+```
 
 <!--
 **derek-baker/derek-baker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
