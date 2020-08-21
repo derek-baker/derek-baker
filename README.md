@@ -1,4 +1,4 @@
-.editorconfig
+.editorconfig for TypeScript
 ```
 # Editor configuration, see https://editorconfig.org
 root = true
