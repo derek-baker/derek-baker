@@ -1,4 +1,4 @@
-Hey, what's happenin?
+Hey.
 
 <!--
 **derek-baker/derek-baker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
