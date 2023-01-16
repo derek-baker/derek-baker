@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <a href="https://stackexchange.com/users/10030726/derekbaker783"><img src="https://stackexchange.com/users/flair/10030726.png" width="208" height="58" alt="profile for derekbaker783 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for derekbaker783 on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-[LinkedIn Profile](https://www.linkedin.com/in/derek-baker-270a9812b/)
+### LinkedIn Profile
+- https://www.linkedin.com/in/derek-baker-270a9812b/
 
 ### Some talks I like:
 - [Sabotaging an Agile Transformation • Fred George • GOTO 2022](https://www.youtube.com/watch?v=3cDpLVuQXEo&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=1)
