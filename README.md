@@ -25,6 +25,8 @@ Here are some ideas to get you started:
  
 - [Team Topologies, Software Architecture & Complexity • James Lewis • GOTO 2022](https://www.youtube.com/watch?v=izLg4NkJQO4&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=2&t=33s)
 
+- ["Expert Software Developers' Approach to Error" by Marian Petre (Strange Loop 2022)](https://youtube.com/watch?v=UNMF5AS4SLg&si=EnSIkaIECMiOmarE)
+
 - ["Categories for the Working Hacker" by Philip Wadler | Strange Loop Conference](https://www.youtube.com/watch?v=gui_SE8rJUM&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=3)
 
 - [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021](https://www.youtube.com/watch?v=znZlF4uQBN0&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=7)
