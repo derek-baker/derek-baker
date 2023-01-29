@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021](https://www.youtube.com/watch?v=znZlF4uQBN0&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=7)
 
-- [Zebras All the Way Down - Bryan Cantrill, Uptime 2017](https://www.youtube.com/watch?v=fE2KDzZaxvE&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=4)
+- [Debugging Under Fire: Keep your Head when Systems have Lost their Mind • Bryan Cantrill • GOTO 2017](https://www.youtube.com/watch?v=30jNsCVLpAE)
 
 - [Rethinking Microservices with Stateful Streams • Ben Stopford • GOTO 2017](https://www.youtube.com/watch?v=6lONG_F76To&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=5&t=1398s)
 
