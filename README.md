@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Some talks I like:
 - [Migrations - The Hardest Actual Problem in Computer Science • Matt Ranney • YOW! 2022](https://www.youtube.com/watch?v=yJOrMDMqeoI)
 
-- [https://www.youtube.com/watch?v=XMyt5S8limQ](https://www.youtube.com/watch?v=XMyt5S8limQ)
+- [Improving Software Flow • Randy Shoup • YOW! 2022](https://www.youtube.com/watch?v=XMyt5S8limQ)
 
 - [How To Use Real Computer Science in Your Day Job • Craig Stuntz](https://youtu.be/Qba1rfcyDME)
 
