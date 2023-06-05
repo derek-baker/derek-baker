@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ### Some talks I like:
 - [Migrations - The Hardest Actual Problem in Computer Science • Matt Ranney • YOW! 2022](https://www.youtube.com/watch?v=yJOrMDMqeoI)
 
+- [https://www.youtube.com/watch?v=XMyt5S8limQ](https://www.youtube.com/watch?v=XMyt5S8limQ)
+
 - [How To Use Real Computer Science in Your Day Job • Craig Stuntz](https://youtu.be/Qba1rfcyDME)
 
 - [Sabotaging an Agile Transformation • Fred George • GOTO 2022](https://www.youtube.com/watch?v=3cDpLVuQXEo&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=1)
