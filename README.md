@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 - [Event Modeling • Adam Dymitruk • YOW! 2022 ](https://www.youtube.com/watch?v=cVyVmcwiPWw&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=8&t=9s)
 
 - [Designing the Ideal Bootstrapped Business with Jason Cohen](https://www.youtube.com/watch?v=otbnC2zE2rw)
+
+- [Sonic Pi - BEAM Up The VJ! • Sam Aaron • GOTO 2023](https://www.youtube.com/watch?v=UqWtYHjPOIs)
