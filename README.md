@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 - [Rethinking Microservices with Stateful Streams • Ben Stopford • GOTO 2017](https://www.youtube.com/watch?v=6lONG_F76To&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=5&t=1398s)
 
 - [Event Modeling • Adam Dymitruk • YOW! 2022 ](https://www.youtube.com/watch?v=cVyVmcwiPWw&list=PL_ANDL5zJdxd5a98I6T_loAJvEs-tYQCW&index=8&t=9s)
+
+- [Designing the Ideal Bootstrapped Business with Jason Cohen](https://www.youtube.com/watch?v=otbnC2zE2rw)
