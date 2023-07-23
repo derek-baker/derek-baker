@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - https://www.linkedin.com/in/derek-baker-270a9812b/
 
 ### Some talks I like:
+- [More Buzzwords Won't Help: The Long History of DevOps Failures • Andrew Clay Shafer • GOTO 2023](https://www.youtube.com/watch?v=C8hma_YSBX0)
+
 - [Migrations - The Hardest Actual Problem in Computer Science • Matt Ranney • YOW! 2022](https://www.youtube.com/watch?v=yJOrMDMqeoI)
 
 - [Improving Software Flow • Randy Shoup • YOW! 2022](https://www.youtube.com/watch?v=XMyt5S8limQ)
